@@ -1,0 +1,1 @@
+FLASK_APP=tng_catalog.py
